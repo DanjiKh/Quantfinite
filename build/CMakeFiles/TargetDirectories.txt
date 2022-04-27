@@ -1,0 +1,3 @@
+C:/Users/Danilo/C++ Projects/Quantfinite/build/CMakeFiles/QuantFinite.dir
+C:/Users/Danilo/C++ Projects/Quantfinite/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/Danilo/C++ Projects/Quantfinite/build/CMakeFiles/ZERO_CHECK.dir
